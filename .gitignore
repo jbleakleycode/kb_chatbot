@@ -1,0 +1,12 @@
+venv/
+legacy/
+__pycache__/
+
+# Ignore other Python artifacts
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Ignore system files
+.DS_Store
