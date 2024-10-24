@@ -2,7 +2,7 @@ Created by Jacob Bleakley
 
 This repository does not explain how the KB is created. That is found at 
 ingestion: https://github.com/jacobbleakley-neo4j/ingestion
-transformation: https://github.com/jacobbleakley-neo4j/neo4j-kb-db-creation
+transformation: https://github.com/jacobbleakley-neo4j/kb-transformation-for-chatbot
 
 Currently the database has been downloaded into 'neo4j.dump'. This can be used to spin up the db with ontologies and content from 'EMEA Services' Google Drive folder in a Neo4j database.
 
