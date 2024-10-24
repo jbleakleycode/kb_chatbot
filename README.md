@@ -14,7 +14,7 @@ To install dependencies: (Best practice to create a virtual environment first) '
 
 To run the application: 'steamlit run bot.py'
 
-Slides explaining the original application and future optimisations can be found at: 
+Slides explaining the original application and future optimisations can be found at (Neo4j internal only): 
 https://docs.google.com/presentation/d/1WmJPYnvyyLaNWsLOjwuwy1qQumegAg9pnBtlpgj_ghY/edit#slide=id.p1
 
 
