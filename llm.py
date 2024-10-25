@@ -3,7 +3,7 @@ from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAIEmbeddings
 
 embeddings = OpenAIEmbeddings(
-    openai_api_key="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"
+    openai_api_key=<Enter openAI API key here>
 )
 
-llm = ChatOpenAI(openai_api_key = "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", model="gpt-4-turbo")
+llm = ChatOpenAI(openai_api_key = <Enter openAI API key here>, model="gpt-4-turbo")
